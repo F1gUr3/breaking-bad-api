@@ -1,0 +1,208 @@
+{
+  "characters": [
+    {
+      "Name": "Walter White",
+      "Birthday": "09-07-1958",
+      "Occupation": ["Chemistry Teacher", "Meth Manufacturer"],
+      "Status": "Deceased",
+      "Appearance": [1, 2, 3, 4, 5],
+      "Nickname": "Heisenberg",
+      "Portrayed": "Bryan Cranston"
+    },
+    {
+      "Name": "Jesse Pinkman",
+      "Birthday": "09-24-1984",
+      "Occupation": ["Meth Manufacturer"],
+      "Status": "Alive",
+      "Appearance": [1, 2, 3, 4, 5],
+      "Nickname": null,
+      "Portrayed": "Aaron Paul"
+    },
+    {
+      "Name": "Skyler White",
+      "Birthday": "08-11-1970",
+      "Occupation": ["Bookkeeper"],
+      "Status": "Alive",
+      "Appearance": [1, 2, 3, 4, 5],
+      "Nickname": null,
+      "Portrayed": "Anna Gunn"
+    },
+    {
+      "Name": "Hank Schrader",
+      "Birthday": "03-10-1966",
+      "Occupation": ["DEA Agent"],
+      "Status": "Deceased",
+      "Appearance": [1, 2, 3, 4, 5],
+      "Nickname": null,
+      "Portrayed": "Dean Norris"
+    },
+    {
+      "Name": "Saul Goodman",
+      "Birthday": "11-12-1960",
+      "Occupation": ["Lawyer"],
+      "Status": "Alive",
+      "Appearance": [2, 3, 4, 5],
+      "Nickname": "Saul",
+      "Portrayed": "Bob Odenkirk"
+    },
+    {
+      "Name": "Gus Fring",
+      "Birthday": "Unknown",
+      "Occupation": ["Business Owner", "Meth Distributor"],
+      "Status": "Deceased",
+      "Appearance": [2, 3, 4],
+      "Nickname": "The Chicken Man",
+      "Portrayed": "Giancarlo Esposito"
+    },
+    {
+      "Name": "Mike Ehrmantraut",
+      "Birthday": "Unknown",
+      "Occupation": ["Cleaner", "Private Investigator"],
+      "Status": "Deceased",
+      "Appearance": [2, 3, 4, 5],
+      "Nickname": null,
+      "Portrayed": "Jonathan Banks"
+    },
+    {
+      "Name": "Walter White Jr.",
+      "Birthday": "07-08-1993",
+      "Occupation": ["Student"],
+      "Status": "Alive",
+      "Appearance": [1, 2, 3, 4, 5],
+      "Nickname": "Flynn",
+      "Portrayed": "RJ Mitte"
+    },
+    {
+      "Name": "Tuco Salamanca",
+      "Birthday": "Unknown",
+      "Occupation": ["Meth Distributor"],
+      "Status": "Deceased",
+      "Appearance": [1, 2],
+      "Nickname": null,
+      "Portrayed": "Raymond Cruz"
+    },
+    {
+      "Name": "Lydia Rodarte-Quayle",
+      "Birthday": "Unknown",
+      "Occupation": ["Logistics Coordinator"],
+      "Status": "Deceased",
+      "Appearance": [5],
+      "Nickname": null,
+      "Portrayed": "Laura Fraser"
+    }
+  ],
+  "episodes": [
+    {
+      "Title": "Pilot",
+      "Season": 1,
+      "EpisodeNumber": 1,
+      "AirDate": "2008-01-20",
+      "Characters": ["Walter White", "Jesse Pinkman", "Skyler White"]
+    },
+    {
+      "Title": "Ozymandias",
+      "Season": 5,
+      "EpisodeNumber": 14,
+      "AirDate": "2013-09-15",
+      "Characters": ["Walter White", "Jesse Pinkman", "Hank Schrader"]
+    },
+    {
+      "Title": "Felina",
+      "Season": 5,
+      "EpisodeNumber": 16,
+      "AirDate": "2013-09-29",
+      "Characters": ["Walter White", "Jesse Pinkman", "Lydia Rodarte-Quayle"]
+    },
+    {
+      "Title": "Face Off",
+      "Season": 4,
+      "EpisodeNumber": 13,
+      "AirDate": "2011-10-09",
+      "Characters": ["Walter White", "Gus Fring"]
+    },
+    {
+      "Title": "Box Cutter",
+      "Season": 4,
+      "EpisodeNumber": 1,
+      "AirDate": "2011-07-17",
+      "Characters": ["Walter White", "Gus Fring", "Jesse Pinkman"]
+    },
+    {
+      "Title": "End Times",
+      "Season": 4,
+      "EpisodeNumber": 12,
+      "AirDate": "2011-10-02",
+      "Characters": ["Walter White", "Skyler White"]
+    },
+    {
+      "Title": "Crawl Space",
+      "Season": 4,
+      "EpisodeNumber": 11,
+      "AirDate": "2011-09-25",
+      "Characters": ["Walter White", "Skyler White"]
+    },
+    {
+      "Title": "One Minute",
+      "Season": 3,
+      "EpisodeNumber": 7,
+      "AirDate": "2010-05-02",
+      "Characters": ["Hank Schrader", "Jesse Pinkman"]
+    },
+    {
+      "Title": "4 Days Out",
+      "Season": 2,
+      "EpisodeNumber": 9,
+      "AirDate": "2009-05-03",
+      "Characters": ["Walter White", "Jesse Pinkman"]
+    },
+    {
+      "Title": "ABQ",
+      "Season": 2,
+      "EpisodeNumber": 13,
+      "AirDate": "2009-05-31",
+      "Characters": ["Walter White", "Jesse Pinkman"]
+    }
+  ],
+  "quotes": [
+    {
+      "QuoteText": "I am not in danger, Skyler. I am the danger!",
+      "Author": "Walter White"
+    },
+    {
+      "QuoteText": "Say my name.",
+      "Author": "Walter White"
+    },
+    {
+      "QuoteText": "I am the one who knocks!",
+      "Author": "Walter White"
+    },
+    {
+      "QuoteText": "Yeah, science!",
+      "Author": "Jesse Pinkman"
+    },
+    {
+      "QuoteText": "Tread lightly.",
+      "Author": "Walter White"
+    },
+    {
+      "QuoteText": "No more half measures.",
+      "Author": "Mike Ehrmantraut"
+    },
+    {
+      "QuoteText": "You're goddamn right.",
+      "Author": "Walter White"
+    },
+    {
+      "QuoteText": "I did it for me. I liked it. I was good at it. And I was really... I was alive.",
+      "Author": "Walter White"
+    },
+    {
+      "QuoteText": "We're done when I say we're done.",
+      "Author": "Walter White"
+    },
+    {
+      "QuoteText": "I’m not in the meth business. I’m in the empire business.",
+      "Author": "Walter White"
+    }
+  ]
+}
